@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kunalchandra007
-- 👀 I’m interested in MERN Stack,Data Science Know languages like Java,C,Python
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science.
 - 📫 You can reach me at kunalchandra2506@gmail.com
 - 😄 Pronouns:He/Him
 

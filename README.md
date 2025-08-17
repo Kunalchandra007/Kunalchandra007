@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kunal Chandra</h1>
-<h3 align="center">Aspiring AI & Data Science Innovator</h3>
-
 # 💫 About Me:
 🔭 I’m currently working on: AI ML Based Projects<br>👯 I’m looking to collaborate on:  <br>- AI/ML research projects (LLMs, NLP, CV)  <br>- Full-stack + Data Science open-source projects  <br>🌱 I’m currently learning:  <br>- Artificial Intelligence & Data Science (Minor @ IIT Mandi)  <br>- Deep Learning Architectures (Transformers, GANs, LLM fine-tuning)  <br>💬 Ask me about:  <br>- AI & Machine Learning (LLMs, CNNs, Computer Vision)  <br>- Data Science & Analytics (Python, TensorFlow, PyTorch, Scikit-learn)  <br>- Full-Stack Development (Flask, Streamlit, React, Docker)  <br>- IoT & Smart Systems (ESP32, RFID, Traffic Automation)  <br>⚡ Fun fact:  <br>Practicing like I have never won 🏆 and performing like I have never lost 💪
 

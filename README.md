@@ -108,16 +108,6 @@ Built a forensic Social Media Chat Parser (WhatsApp + Instagram), with a Pyzippe
 
 <br/><br/>
 
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/rdgehc0aio3p3vr1edzr4svn-dark.svg?v=1784816592047">
-  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/rdgehc0aio3p3vr1edzr4svn-light.svg?v=1784816592047">
-  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/rdgehc0aio3p3vr1edzr4svn-dark.svg?v=1784816592047">
-</picture>
-<!-- GITHUBWALLPAPER:END -->
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Kunalchandra007&label=PROFILE+VIEWS&color=10b981&style=for-the-badge"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a2e1a,100:000000&height=110&section=footer" width="100%"/>

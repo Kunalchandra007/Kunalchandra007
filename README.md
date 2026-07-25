@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=3">
-  <img src="./banner.svg?v=3" alt="Kunal Chandra — AI/ML Builder" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=4">
+  <img src="./banner.svg?v=4" alt="Kunal Chandra — AI/ML Builder" width="100%"/>
 </picture>
 
 </div>
@@ -12,12 +12,7 @@
 
 <table align="center" border="0">
 <tr>
-<td width="34%" align="center" valign="middle">
-
-<img src="./lanyard.svg?v=3" alt="Kunal Chandra ID badge" width="300"/>
-
-</td>
-<td width="66%" valign="middle">
+<td valign="middle">
 
 ### 🚀 What I'm Building
 
@@ -72,16 +67,20 @@ Built a forensic Social Media Chat Parser (WhatsApp + Instagram), with a Pyzippe
 
 <div align="center">
 
-<img src="./stats.svg?v=3" alt="GitHub Stats" height="195"/>
-<img src="./langs.svg?v=3" alt="Top Languages" height="195"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kunalchandra007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=4ade80&icon_color=a3e635&text_color=e8f5ec&border_color=1e4d2b"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalchandra007&layout=compact&hide_border=true&include_all_commits=true&bg_color=000000&title_color=4ade80&text_color=e8f5ec&border_color=1e4d2b"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Kunalchandra007&hide_border=true&background=000000&ring=4ade80&fire=a3e635&currStreakLabel=4ade80&currStreakNum=e8f5ec&sideNums=e8f5ec&sideLabels=7fae8f&dates=7fae8f"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalchandra007&bg_color=000000&color=4ade80&line=a3e635&point=34d399&area=true&area_color=10b981&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalchandra007&bg_color=000000&color=10b981&line=a3e635&point=34d399&area=true&area_color=10b981&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
-
-<br/><br/>
-
-<img src="./trophies.svg?v=3" alt="Trophies" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kunalchandra007&no-frame=true&column=7&margin-w=8&margin-h=8&title_color=4ade80&icon_color=a3e635&text_color=e8f5ec&background=000000&border_radius=10"/>
 
 <br/><br/>
 
@@ -92,8 +91,6 @@ Built a forensic Social Media Chat Parser (WhatsApp + Instagram), with a Pyzippe
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kunalchandra007/Kunalchandra007/output/github-snake.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Kunalchandra007/Kunalchandra007/output/github-snake-dark.svg" width="100%"/>
 </picture>
-
-<sub>Renders after `github-snake.yml` runs once on the `output` branch — expect a 404 until then.</sub>
 
 </div>
 
@@ -112,5 +109,7 @@ Built a forensic Social Media Chat Parser (WhatsApp + Instagram), with a Pyzippe
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Kunalchandra007&label=PROFILE+VIEWS&color=10b981&style=for-the-badge"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a2e1a,100:000000&height=110&section=footer" width="100%"/>
 
 </div>

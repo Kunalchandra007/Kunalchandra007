@@ -141,7 +141,7 @@
     <g transform="translate(50,195)" opacity="0">
       <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.55;1" dur="2.4s" begin="2.0s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" values="50,215;50,215;50,195" keyTimes="0;0.55;1" dur="2.4s" begin="2.0s" fill="freeze"/>
-      <text font-family="'Pacifico','Brush Script MT',cursive" font-size="66" fill="url(#nameGraddark)">Kunal Chandra<tspan font-family="sans-serif" font-size="40">&#128154;</tspan></text>
+      <text font-family="'Pacifico','Brush Script MT',cursive" font-size="66" fill="url(#nameGraddark)">Kunal Chandra</text>
     </g>
     
     <g transform="translate(50,240)" opacity="0" font-family="'Fira Code',monospace" font-size="17" fill="#22c55e">

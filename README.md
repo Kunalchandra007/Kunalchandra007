@@ -5,15 +5,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:35102b,75:8b1e3f,100:bd303b&height=190&section=header&text=KUNAL%20CHANDRA&fontSize=44&fontColor=f5f5f5&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18&descColor=5be9ff" width="100%"/>
 
-# <span style="color:#5be9ff">Hey there!</span> 👋
+<h1>
+  <span style="color:#5be9ff">Hey there!</span> 👋
+</h1>
 
-### <span style="color:#e85d75">Building intelligent systems. Shipping real-world software.</span>
+<h3>
+  <span style="color:#e85d75">Building intelligent systems. Shipping real-world software.</span>
+</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=E85D75&center=true&vCenter=true&width=700&lines=AI%2FML+Builder;Software+Development+Engineer;Generative+AI+%26+Backend+Systems;Turning+Ideas+Into+Shipped+Products)](https://github.com/Kunalchandra007)
 
 <br/>
-
-<!-- Larger profile GIF -->
 
 <img src="./pfp.gif" alt="Kunal Chandra - AI/ML and Software Development" width="680"/>
 
@@ -88,7 +90,7 @@
 
 <br/>
 
-`GitHub Actions` · `CI/CD` · `Llama.cpp` · `ChromaDB`
+`GitHub Actions` · `CI/CD` · `Local LLM Inference` · `ChromaDB`
 
 </div>
 
@@ -105,9 +107,9 @@
 <b>Software Development Engineer Intern</b><br>
 <a href="https://www.drdo.gov.in/">DRDO — INMAS</a>, Delhi
 <br/><br/>
-• Engineered a real-time OCR-based visitor gate-pass system with automated ID verification, reducing processing time from 2–3 minutes to approximately 10 seconds.<br/>
-• Built an LLM-powered RAG chatbot for internal document retrieval, reducing information search time from approximately 30 minutes to a single prompt.<br/>
-• Developing a deep learning pipeline for Demirjian dental age estimation.
+• Engineered a real-time OCR-based visitor gate-pass system with automated ID verification.<br/>
+• Optimized document-processing workflows using GPU-accelerated OCR.<br/>
+• Built an LLM-powered RAG chatbot for internal document retrieval.
 </td>
 </tr>
 
@@ -120,7 +122,7 @@
 <a href="https://www.drdo.gov.in/">DRDO — SSPL</a>, Delhi
 <br/><br/>
 • Designed a Siamese Nested U-Net with ECAM in PyTorch for satellite change detection.<br/>
-• Developed a 6-class semantic change classification pipeline for surveillance and infrastructure monitoring.<br/>
+• Developed a deep learning pipeline for semantic change classification.<br/>
 • Achieved <b>96.37% Precision · 95.95% Recall · 96.16% F1-Score</b> on the CDD dataset.
 </td>
 </tr>
@@ -151,14 +153,14 @@ Intelligence Fusion & Strategic Operations (IFSO), Delhi Police
 <img src="https://img.shields.io/badge/YOLOv8-8b1e3f?style=flat-square"/>
 <img src="https://img.shields.io/badge/ByteTrack-bd303b?style=flat-square"/>
 <img src="https://img.shields.io/badge/ESP32-6d28d9?style=flat-square"/>
-<img src="https://img.shields.io/badge/RFID-5be9ff?style=flat-square&logoColor=0d0221"/>
+<img src="https://img.shields.io/badge/RFID-5be9ff?style=flat-square"/>
 
 </div>
 
 - Engineered an AI-driven traffic signal system using YOLOv8 vehicle detection and ByteTrack multi-object tracking.
 - Implemented virtual line-based vehicle density estimation for adaptive signal timing.
 - Integrated ESP32 and RFID modules for emergency and priority vehicle detection.
-- Built a real-time approach to intelligent traffic management.
+- Developed a real-time approach to intelligent traffic management.
 
 ---
 
@@ -209,7 +211,7 @@ Intelligence Fusion & Strategic Operations (IFSO), Delhi Police
 
 | Achievement | Result |
 |:---|:---:|
-| LeetCode | 400+ DSA problems across platforms |
+| DSA | 400+ problems across multiple platforms |
 | LeetCode Contest Rating | **1626** highest rating |
 | CodeVita | Round 2 · Rank 270 among 100,000+ participants |
 | Trwizardthon Hackathon | Top 25 Finalists |
@@ -221,19 +223,19 @@ Intelligence Fusion & Strategic Operations (IFSO), Delhi Police
 
 ---
 
-
-
-<!-- ==================== GITHUB STATS ==================== -->
+<!-- ==================== SINGLE GITHUB STATS SECTION ==================== -->
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <div align="center">
 
-<img src="https://yourinsights.vercel.app/api/insight?username=Kunalchandra007&amp;theme=radical&amp;graph=false&amp;languages=true&amp;streak=true&amp;stats=true&amp;header=false&amp;summary=false&amp;profile=false" alt="Kunal Chandra GitHub Insights" width="100%"/>
+<img src="https://yourinsights.vercel.app/api/insight?username=Kunalchandra007&theme=radical&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="Kunal Chandra GitHub Insights" width="100%"/>
 
 </div>
 
 <br/>
+
+---
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
@@ -251,13 +253,7 @@ Intelligence Fusion & Strategic Operations (IFSO), Delhi Police
 
 <br/>
 
-<!-- ==================== FOOTER ==================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,40:35102b,75:8b1e3f,100:bd303b&amp;height=130&amp;section=footer" width="100%"/>
-
-</div>
+---
 
 ## 📫 Let's Connect
 
@@ -283,10 +279,10 @@ Intelligence Fusion & Strategic Operations (IFSO), Delhi Police
 
 <img src="https://komarev.com/ghpvc/?username=Kunalchandra007&label=PROFILE+VIEWS&color=e85d75&style=for-the-badge"/>
 
-<br/><br/>
+</div>
 
-<!-- Matching red / purple footer strip -->
+<br/>
+
+<!-- ==================== SINGLE FOOTER ==================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:35102b,75:8b1e3f,100:bd303b&height=130&section=footer" width="100%"/>
-
-</div>

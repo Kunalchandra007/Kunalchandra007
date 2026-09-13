@@ -2,36 +2,21 @@
 
 # <span style="color:#5be9ff">KUNAL</span> <span style="color:#ff5fc1">CHANDRA</span>
 
-### <span style="color:#ff9fd8">&lt;/&gt; AI/ML Builder · Software Development Engineer</span>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=FF5FC1&center=true&vCenter=true&width=560&lines=AI%2FML+Builder;Software+Development+Engineer;Building+Real-Time+AI+Systems;Turning+Ideas+Into+Shipped+Products)](https://github.com/Kunalchandra007)
 
-<img src="./pfp.gif" alt="Kunal Chandra" width="220"/>
+<img src="./pfp.gif" alt="Kunal Chandra" width="320"/>
 
 </div>
 
 <br/>
 
-<table align="center" border="0">
-<tr>
-<td valign="middle">
+## 🛠️ Tech Stack
 
-### 🚀 What I'm Building
+<div align="center">
 
-| Project | Stack | Highlight |
-|:---|:---:|:---:|
-| [🚦 SmartFlow — AI Traffic Control](https://github.com/Kunalchandra007/SMARTFLOW) | `Python` `YOLOv8` `BYTETrack` `ESP32` | Real-time density + emergency priority |
-| [🌊 Pravha — AI Flood Forecasting](https://github.com/Kunalchandra007/Pravha) | `TypeScript` `XGBoost` `FastAPI` | SIH-25139 · 86.5% accuracy · GIS routing |
-| [📚 Enterprise RAG Assistant](#) | `Llama.cpp` `ChromaDB` `LangChain` | Local-LLM knowledge retrieval |
-| [🛰️ SNUNet Change Detection](#) | `PyTorch` | 96.16% F1 on satellite CDD dataset |
-| [🪙 DSCoin — Crypto Project](https://github.com/Kunalchandra007/DSCoin_Crypto_Project-) | `Java` | Blockchain fundamentals build |
-| [🌐 Portfolio](https://github.com/Kunalchandra007/My_Portfolio) | `TypeScript` | Personal site — [kunalchandra.vercel.app](https://kunalchandra.vercel.app/) |
+<img src="https://skillicons.dev/icons?i=java,python,fastapi,flask,react,nextjs,typescript,nodejs,express,postgres,mongodb,docker,git,github,tensorflow,pytorch,numpy,opencv,tailwind,kubernetes" />
 
-<br>
-
-> 💚 *"Performing like I've never won."*
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -67,20 +52,20 @@ Built a forensic Social Media Chat Parser (WhatsApp + Instagram), with a Pyzippe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kunalchandra007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=4ade80&icon_color=a3e635&text_color=e8f5ec&border_color=1e4d2b"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalchandra007&layout=compact&hide_border=true&include_all_commits=true&bg_color=000000&title_color=4ade80&text_color=e8f5ec&border_color=1e4d2b"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kunalchandra007&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&bg_color=0d0221&title_color=5be9ff&icon_color=ff9fd8&text_color=e8f0ff&border_color=ff5fc1&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalchandra007&layout=compact&hide_border=false&include_all_commits=true&bg_color=0d0221&title_color=5be9ff&text_color=e8f0ff&border_color=ff5fc1&border_radius=10"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Kunalchandra007&hide_border=true&background=000000&ring=4ade80&fire=a3e635&currStreakLabel=4ade80&currStreakNum=e8f5ec&sideNums=e8f5ec&sideLabels=7fae8f&dates=7fae8f"/>
+<img src="https://streak-stats.demolab.com/?user=Kunalchandra007&hide_border=false&background=0d0221&border=ff5fc1&ring=5be9ff&fire=ff5fc1&currStreakLabel=5be9ff&currStreakNum=e8f0ff&sideNums=e8f0ff&sideLabels=c9b8ff&dates=c9b8ff"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalchandra007&bg_color=000000&color=4ade80&line=a3e635&point=34d399&area=true&area_color=10b981&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalchandra007&bg_color=0d0221&color=5be9ff&line=ff5fc1&point=ff9fd8&area=true&area_color=7a2bd8&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kunalchandra007&no-frame=true&column=7&margin-w=8&margin-h=8&title_color=4ade80&icon_color=a3e635&text_color=e8f5ec&background=000000&border_radius=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kunalchandra007&no-frame=true&column=7&margin-w=8&margin-h=8&title_color=5be9ff&icon_color=ff5fc1&text_color=e8f0ff&background=0d0221&border_radius=10"/>
 
 <br/><br/>
 

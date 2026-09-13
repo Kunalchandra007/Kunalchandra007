@@ -221,39 +221,22 @@ Intelligence Fusion & Strategic Operations (IFSO), Delhi Police
 
 ---
 
-## 📊 GitHub Stats
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <div align="center">
 
-<!-- Stats and most-used languages -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kunalchandra007&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&bg_color=0d0221&title_color=e85d75&icon_color=5be9ff&text_color=e8f0ff&border_color=8b1e3f&border_radius=12" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalchandra007&layout=compact&hide_border=false&include_all_commits=true&bg_color=0d0221&title_color=e85d75&text_color=e8f0ff&border_color=8b1e3f&border_radius=12" height="180"/>
-
-<br/><br/>
-
-<!-- GitHub streak -->
-
-<img src="https://streak-stats.demolab.com/?user=Kunalchandra007&hide_border=false&background=0d0221&border=8b1e3f&ring=e85d75&fire=f59e0b&currStreakLabel=5be9ff&currStreakNum=e8f0ff&sideNums=e8f0ff&sideLabels=c9b8ff&dates=c9b8ff" width="70%"/>
-
-<br/><br/>
-
-<!-- Contribution graph -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalchandra007&bg_color=0d0221&color=5be9ff&line=e85d75&point=f59e0b&area=true&area_color=4b102d&hide_border=false&custom_title=Contribution%20Graph" alt="GitHub contribution graph" width="95%"/>
-
-<br/><br/>
-
-<!-- GitHub trophies -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kunalchandra007&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=e85d75&icon_color=f59e0b&text_color=e8f0ff" width="95%"/>
+<img src="https://yourinsights.vercel.app/api/insight?username=Kunalchandra007&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="Kunal Chandra GitHub Insights" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
@@ -264,8 +247,6 @@ Intelligence Fusion & Strategic Operations (IFSO), Delhi Police
 </picture>
 
 </div>
-
----
 
 ## 📫 Let's Connect
 

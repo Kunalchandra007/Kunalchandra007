@@ -1,10 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=4">
-  <img src="./banner.svg?v=4" alt="Kunal Chandra — AI/ML Builder" width="100%"/>
-</picture>
+# <span style="color:#5be9ff">KUNAL</span> <span style="color:#ff5fc1">CHANDRA</span>
+
+### <span style="color:#ff9fd8">&lt;/&gt; AI/ML Builder · Software Development Engineer</span>
+
+<img src="./pfp.gif" alt="Kunal Chandra" width="220"/>
 
 </div>
 

@@ -1,10 +1,10 @@
 <div align="center">
 
-# <span style="color:#5be9ff">KUNAL</span> <span style="color:#ff5fc1">CHANDRA</span>
+# <span style="color:#5be9ff">Hey!</span> <span style="color:#ff5fc1">I'm Kunal Chandra</span> 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=FF5FC1&center=true&vCenter=true&width=560&lines=AI%2FML+Builder;Software+Development+Engineer;Building+Real-Time+AI+Systems;Turning+Ideas+Into+Shipped+Products)](https://github.com/Kunalchandra007)
 
-<img src="./pfp.gif" alt="Kunal Chandra" width="320"/>
+<img src="./pfp.gif" alt="Kunal Chandra" width="440"/>
 
 </div>
 

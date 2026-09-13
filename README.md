@@ -222,13 +222,14 @@ Intelligence Fusion & Strategic Operations (IFSO), Delhi Police
 ---
 
 
+
 <!-- ==================== GITHUB STATS ==================== -->
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <div align="center">
 
-<img src="https://yourinsights.vercel.app/api/insight?username=Kunalchandra007&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="Kunal Chandra GitHub Insights" width="100%"/>
+<img src="https://yourinsights.vercel.app/api/insight?username=Kunalchandra007&amp;theme=radical&amp;graph=false&amp;languages=true&amp;streak=true&amp;stats=true&amp;header=false&amp;summary=false&amp;profile=false" alt="Kunal Chandra GitHub Insights" width="100%"/>
 
 </div>
 
@@ -236,15 +237,25 @@ Intelligence Fusion & Strategic Operations (IFSO), Delhi Police
 
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🐍 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Sɴᴀᴋᴇ</h2>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kunalchandra007/Kunalchandra007/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kunalchandra007/Kunalchandra007/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kunalchandra007/Kunalchandra007/output/github-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Kunalchandra007/Kunalchandra007/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
 </picture>
+
+</div>
+
+<br/>
+
+<!-- ==================== FOOTER ==================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0221,40:35102b,75:8b1e3f,100:bd303b&amp;height=130&amp;section=footer" width="100%"/>
 
 </div>
 
